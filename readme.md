@@ -1,5 +1,5 @@
-#Titulo
-##Subtitulo
+# Titulo
+## Subtitulo
 
 code``git add .``
 ``git commit -m "Primer commit"``
