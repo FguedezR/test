@@ -1,6 +1,6 @@
 #Titulo
 ##Subtitulo
 
-code``git add ."``
-code``git commit -m "Primer commit"``
-code``git push"``
+code``git add .``
+``git commit -m "Primer commit"``
+``git push``
